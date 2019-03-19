@@ -96,6 +96,10 @@ public class SudokuSolverV2 {
        System.out.println(); 
     }
     
+    public void fun(){
+        //for fun
+    }
+    
     public static void main(String umi[]){
         SudokuSolverV2 sudoku = new SudokuSolverV2(lol);
         System.out.println("Solve this shit :");
