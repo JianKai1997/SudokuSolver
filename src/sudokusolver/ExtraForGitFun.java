@@ -12,5 +12,5 @@ package sudokusolver;
 public class ExtraForGitFun {
 
         // nothing ehh 
-        // github try
+        // github
 }
