@@ -1,7 +1,7 @@
 package sudokusolver;
 
 public class SudokuSolver {
-
+    //yoooo
     public static boolean isSafe(int[][] board, int row, int col, int num) {
         // row has the unique (row-clash) 
         for (int d = 0; d < board.length; d++) {
